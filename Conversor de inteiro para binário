@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+void converterBin(int num) {
+    if (num > 1) {
+        converterBin(num / 2);
+    }
+    printf("%d", num % 2);
+}
+
+int main() {
+    int num;
+    
+    printf("---Convertor de numeros para binário---\n\n");
+    
+    printf("Digite um numero inteiro: ");
+    scanf("%d", &num);
+
+    printf("O número %d em binário fica: ", num);
+    converterBin(num);
+    printf("\n");
+
+    return 0;
+}
