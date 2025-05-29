@@ -1,0 +1,23 @@
+1-Planejamento do Vídeo
+
+Realizamos uma reunião inicial com o objetivo de definir o tema central do vídeo. Durante a discussão, rapidamente chegamos a um consenso sobre um assunto que consideramos relevante e atual: a segurança dos usuários na internet. Escolhemos esse tema por sua utilidade prática e pela quantidade de informações valiosas que podem contribuir para a conscientização e proteção dos internautas.
+
+2-Identificação do Problema
+
+Considerando que a parte interessada atua no ramo da gastronomia, especificamente em um restaurante, a higiene na cozinha se mostra um fator essencial. Durante nossa análise, identificamos um problema recorrente relacionado ao contato direto das pessoas com o lixo, o que compromete as boas práticas sanitárias. Diante disso, nosso projeto foi desenvolvido com o objetivo de solucionar essa questão e promover um ambiente mais higiênico e seguro.
+
+3-Divulgação do Conteúdo
+
+Como parte da execução do projeto, publicamos um vídeo na plataforma YouTube com o objetivo de alertar os usuários sobre golpes comuns na internet. O conteúdo foi elaborado para oferecer orientações práticas e acessíveis, com o intuito de ajudar o público a reconhecer e evitar esse tipo de ameaça virtual, promovendo assim uma navegação mais segura.
+
+4-
+
+5-Solução Proposta
+
+Para resolver o problema identificado pela parte interessada — o contato direto com o lixo na cozinha — desenvolvemos uma lixeira inteligente ativada por sensores de movimento e som. Dessa forma, elimina-se a necessidade de contato físico, promovendo maior higiene e segurança no ambiente de trabalho. A proposta visa automatizar o descarte de resíduos, atendendo às exigências sanitárias do setor alimentício.
+
+6-Capacitação Técnica
+
+Ao longo do desenvolvimento do projeto, participamos de diversas aulas práticas supervisionadas, nas quais tivemos a oportunidade de aprender sobre os componentes eletrônicos utilizados e praticar sua aplicação. Essas atividades foram fundamentais para adquirir o conhecimento técnico necessário à implementação da solução proposta.
+
+7-
